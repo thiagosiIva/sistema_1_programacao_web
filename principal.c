@@ -12,5 +12,9 @@ float somaDoisNumeros(float a, float b)
 
 int subtraiDoisInteiros(int a, int b)
 {
-    return a - b;
+    return a - b}
+int somaDoisinteiros(int a, int b)
+{
+    return a + b;
+
 }
