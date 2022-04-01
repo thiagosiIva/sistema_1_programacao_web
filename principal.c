@@ -9,3 +9,8 @@ float somaDoisNumeros(float a, float b)
 {
     return a + b;
 }
+
+int somaDoisinteiros(int a, int b)
+{
+    return a + b;
+}
